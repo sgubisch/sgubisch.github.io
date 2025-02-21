@@ -1,0 +1,19 @@
+---
+title: "reseach.qmd"
+---
+
+## Current Research
+
+Describe your current research projects in detail. Include background, methodology, and expected outcomes.
+
+## Past Research
+
+Summarize your previous research work.
+
+## Research Group (If applicable)
+
+If you're part of a research group, introduce the team and their work.
+
+## Collaborations
+
+## List any collaborations you have with other researchers or institutions.

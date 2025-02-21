@@ -1,5 +1,117 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "reseach.qmd",
+    "section": "",
+    "text": "Describe your current research projects in detail. Include background, methodology, and expected outcomes."
+  },
+  {
+    "objectID": "research.html#current-research",
+    "href": "research.html#current-research",
+    "title": "reseach.qmd",
+    "section": "",
+    "text": "Describe your current research projects in detail. Include background, methodology, and expected outcomes."
+  },
+  {
+    "objectID": "research.html#past-research",
+    "href": "research.html#past-research",
+    "title": "reseach.qmd",
+    "section": "Past Research",
+    "text": "Past Research\nSummarize your previous research work."
+  },
+  {
+    "objectID": "research.html#research-group-if-applicable",
+    "href": "research.html#research-group-if-applicable",
+    "title": "reseach.qmd",
+    "section": "Research Group (If applicable)",
+    "text": "Research Group (If applicable)\nIf you’re part of a research group, introduce the team and their work."
+  },
+  {
+    "objectID": "research.html#collaborations",
+    "href": "research.html#collaborations",
+    "title": "reseach.qmd",
+    "section": "Collaborations",
+    "text": "Collaborations"
+  },
+  {
+    "objectID": "research.html#list-any-collaborations-you-have-with-other-researchers-or-institutions.",
+    "href": "research.html#list-any-collaborations-you-have-with-other-researchers-or-institutions.",
+    "title": "reseach.qmd",
+    "section": "List any collaborations you have with other researchers or institutions.",
+    "text": "List any collaborations you have with other researchers or institutions."
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Describe your project with details and images/videos."
+  },
+  {
+    "objectID": "Projects.html#project-1",
+    "href": "Projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "Describe your project with details and images/videos."
+  },
+  {
+    "objectID": "Projects.html#project-2",
+    "href": "Projects.html#project-2",
+    "title": "Projects",
+    "section": "Project 2",
+    "text": "Project 2\n…"
+  },
+  {
+    "objectID": "Projects.html#project-3",
+    "href": "Projects.html#project-3",
+    "title": "Projects",
+    "section": "## Project 3",
+    "text": "## Project 3"
+  },
+  {
+    "objectID": "conact.html",
+    "href": "conact.html",
+    "title": "Publications",
+    "section": "",
+    "text": "List your journal articles in a consistent format (e.g., BibTeX or a manual list)."
+  },
+  {
+    "objectID": "conact.html#journal-articles",
+    "href": "conact.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "List your journal articles in a consistent format (e.g., BibTeX or a manual list)."
+  },
+  {
+    "objectID": "conact.html#conference-papers",
+    "href": "conact.html#conference-papers",
+    "title": "Publications",
+    "section": "Conference Papers",
+    "text": "Conference Papers\nList your conference papers."
+  },
+  {
+    "objectID": "conact.html#other-publications",
+    "href": "conact.html#other-publications",
+    "title": "Publications",
+    "section": "Other Publications",
+    "text": "Other Publications\nInclude any other publications (e.g., book chapters, technical reports)."
+  },
+  {
+    "objectID": "conact.html#google-scholar-orcid",
+    "href": "conact.html#google-scholar-orcid",
+    "title": "Publications",
+    "section": "Google Scholar / ORCID",
+    "text": "Google Scholar / ORCID"
+  },
+  {
+    "objectID": "conact.html#link-to-your-google-scholar-or-orcid-profile.",
+    "href": "conact.html#link-to-your-google-scholar-or-orcid-profile.",
+    "title": "Publications",
+    "section": "Link to your Google Scholar or ORCID profile.",
+    "text": "Link to your Google Scholar or ORCID profile."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Website2",
@@ -7,10 +119,45 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "About this site"
+    "text": "List your journal articles in a consistent format (e.g., BibTeX or a manual list)."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "List your journal articles in a consistent format (e.g., BibTeX or a manual list)."
+  },
+  {
+    "objectID": "publications.html#conference-papers",
+    "href": "publications.html#conference-papers",
+    "title": "Publications",
+    "section": "Conference Papers",
+    "text": "Conference Papers\nList your conference papers."
+  },
+  {
+    "objectID": "publications.html#other-publications",
+    "href": "publications.html#other-publications",
+    "title": "Publications",
+    "section": "Other Publications",
+    "text": "Other Publications\nInclude any other publications (e.g., book chapters, technical reports)."
+  },
+  {
+    "objectID": "publications.html#google-scholar-orcid",
+    "href": "publications.html#google-scholar-orcid",
+    "title": "Publications",
+    "section": "Google Scholar / ORCID",
+    "text": "Google Scholar / ORCID"
+  },
+  {
+    "objectID": "publications.html#link-to-your-google-scholar-or-orcid-profile.",
+    "href": "publications.html#link-to-your-google-scholar-or-orcid-profile.",
+    "title": "Publications",
+    "section": "Link to your Google Scholar or ORCID profile.",
+    "text": "Link to your Google Scholar or ORCID profile."
   }
 ]

@@ -1,0 +1,19 @@
+---
+title: "Publications"
+---
+
+## Journal Articles
+
+List your journal articles in a consistent format (e.g., BibTeX or a manual list).
+
+## Conference Papers
+
+List your conference papers.
+
+## Other Publications
+
+Include any other publications (e.g., book chapters, technical reports).
+
+## Google Scholar / ORCID
+
+## Link to your Google Scholar or ORCID profile.
